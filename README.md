@@ -10,3 +10,7 @@ git diff "index.html" or git diff
 git reset --hard abcdef it reverts next commit of the abcdef
 git revert index.html  it copie
 
+
+
+nothing to write in this file
+
