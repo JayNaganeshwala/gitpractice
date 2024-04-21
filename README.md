@@ -10,3 +10,6 @@ git diff "index.html" or git diff
 git reset --hard abcdef it reverts next commit of the abcdef
 git revert index.html  it copie
 
+git branch all branches
+git branch "jay-features"
+git checkout "jay-features"
